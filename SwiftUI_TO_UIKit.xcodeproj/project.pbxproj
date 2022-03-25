@@ -11,6 +11,7 @@
 		961AAC8827EC676F0089AEEB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961AAC8727EC676F0089AEEB /* ContentView.swift */; };
 		961AAC8A27EC67710089AEEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 961AAC8927EC67710089AEEB /* Assets.xcassets */; };
 		961AAC8D27EC67710089AEEB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 961AAC8C27EC67710089AEEB /* Preview Assets.xcassets */; };
+		961AAC9627EC690D0089AEEB /* SUImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961AAC9527EC690D0089AEEB /* SUImagePickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		961AAC8727EC676F0089AEEB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		961AAC8927EC67710089AEEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		961AAC8C27EC67710089AEEB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		961AAC9527EC690D0089AEEB /* SUImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SUImagePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				961AAC8527EC676F0089AEEB /* SwiftUI_TO_UIKitApp.swift */,
 				961AAC8727EC676F0089AEEB /* ContentView.swift */,
+				961AAC9527EC690D0089AEEB /* SUImagePickerView.swift */,
 				961AAC8927EC67710089AEEB /* Assets.xcassets */,
 				961AAC8B27EC67710089AEEB /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				961AAC8827EC676F0089AEEB /* ContentView.swift in Sources */,
 				961AAC8627EC676F0089AEEB /* SwiftUI_TO_UIKitApp.swift in Sources */,
+				961AAC9627EC690D0089AEEB /* SUImagePickerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
